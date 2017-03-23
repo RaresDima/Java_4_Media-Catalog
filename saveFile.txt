@@ -1,0 +1,37 @@
+startFile
+startObject
+Track
+The Foundation
+1951
+d:\tracks\asimov\foundation.mp3
+startObject
+Track
+The Writer
+2001
+d:\tracks\Breakdown\TheWriter.mp3
+startObject
+Track
+Machine
+2009
+d:\tracks\Osiris\Machine.mp3
+startObject
+Movie
+Blade Runner
+1982
+d:\movies\blade_runner.mp4
+startObject
+Movie
+Titanic
+1952
+d:\movies\titanic.mp4
+startObject
+Movie
+Harry Potter
+2002
+d:\movies\harryPotter.mp4
+startObject
+Movie
+Helicopter
+2017
+d:\Intellij Projects\Java_4\Helicopter.mp4
+endFile
